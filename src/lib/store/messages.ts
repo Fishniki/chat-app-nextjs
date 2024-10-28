@@ -1,5 +1,4 @@
 /* eslint-disable @typescript-eslint/no-unused-expressions */
-/* eslint-disable @typescript-eslint/no-unused-vars */
 import { LIMIT_MESSAGES } from "@/components/constant";
 import { create } from "zustand";
 
